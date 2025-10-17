@@ -4,17 +4,23 @@
 
 ---
 
-## 🇮🇩 Tentang Kami (Bahasa Indonesia)
+## Tentang Kami
 
 **CV. Aneka Pustaka Multimedia** adalah perusahaan yang bergerak di bidang penerbitan, percetakan, dan distribusi buku yang berkomitmen untuk menghadirkan karya-karya berkualitas bagi dunia pendidikan, literasi, dan pengembangan intelektual di Indonesia. Kami tidak hanya berperan sebagai penerbit, tetapi juga sebagai mitra strategis bagi penulis, lembaga pendidikan, komunitas literasi, hingga pelaku usaha yang membutuhkan layanan produksi konten cetak maupun digital.
 
 Dengan pengalaman dan dedikasi tinggi dalam dunia penerbitan, kami membangun ekosistem yang mendukung proses kreatif mulai dari penyuntingan naskah, desain layout, percetakan profesional, hingga distribusi dan pendampingan branding buku. Kami memahami bahwa setiap karya memiliki nilai dan tujuan, oleh karena itu kami menghadirkan layanan yang mengedepankan kualitas, kecepatan, dan kepastian penerbitan.
 
-### Fokus Layanan:
-- **Penerbitan Buku Profesional** — Mendampingi penulis dari naskah hingga menjadi buku siap edar.
-- **Percetakan & Produksi** — Layanan cetak buku, modul, katalog, hingga kebutuhan branding dengan standar industri.
-- **Distribusi & Etalase Digital** — Memungkinkan karya untuk terjangkau oleh pembaca melalui berbagai kanal distribusi online maupun offline.
-- **Digital Publishing & Konten Multimedia** — Adaptasi buku ke format digital untuk kebutuhan era modern.
+## 🎯 Fokus & Layanan Utama
+
+| Layanan / Divisi                 | Deskripsi Singkat                                                                 | Status |
+|-------------------------------|----------------------------------------------------------------------------------|:------:|
+| 📘 **Penerbitan Buku**         | Mendampingi penulis dari naskah hingga buku siap edar dengan standar ISBN resmi. | ✅ Aktif |
+| 🖨️ **Percetakan & Produksi**   | Produksi buku, modul, dan media edukasi dengan beragam opsi finishing profesional. | ✅ Aktif |
+| 🌐 **Distribusi & Digitalisasi** | Menyalurkan buku secara offline & online, termasuk marketplace dan platform digital. | ✅ Aktif |
+| 🎓 **Kemitraan Pendidikan**     | Kolaborasi dengan sekolah, kampus, dan komunitas literasi di seluruh Indonesia. | ✅ Aktif |
+| 🤝 **Custom Project & OEM**     | Layanan branding buku, proyek khusus instansi, dan penerbitan one-stop solution. | ✅ Aktif |
+
+---
 
 ### Visi
 Menjadi mitra penerbitan yang terpercaya dan berpengaruh dalam membangun ekosistem literasi dan pengetahuan di Indonesia.
@@ -27,7 +33,7 @@ Menjadi mitra penerbitan yang terpercaya dan berpengaruh dalam membangun ekosist
 
 ---
 
-## 🇬🇧 About Us (English Version)
+## About Us
 
 **CV. Aneka Pustaka Multimedia** is a publishing, printing, and book distribution company dedicated to delivering high-quality works for education, literacy, and intellectual development in Indonesia. We are more than just a publisher—we position ourselves as a strategic partner for authors, educational institutions, literacy communities, and businesses in need of professional content production, both in print and digital formats.
 
