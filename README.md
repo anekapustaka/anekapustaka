@@ -1,7 +1,6 @@
 # CV. Aneka Pustaka Multimedia
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-AnekaPustakaMultimedia-181717?logo=github)](https://github.com/anekapustaka)
-[![Website Resmi](https://img.shields.io/badge/Kunjungi%20Website-AnekaPustakaMultimedia.com-0d6efd?style=for-the-badge)](https://anekapustakamultimedia.com)
 
 ---
 
@@ -50,5 +49,6 @@ To become a trusted and influential publishing partner in nurturing Indonesia's 
 4. Innovate through digital publishing and modern content production.
 
 ---
+[![Website Resmi](https://img.shields.io/badge/Kunjungi%20Website-AnekaPustakaMultimedia.com-0d6efd?style=for-the-badge)](https://anekapustakamultimedia.com)
 
 Terima kasih telah mengunjungi repositori ini. Dukungan terhadap literasi adalah langkah kecil menuju perubahan besar.
